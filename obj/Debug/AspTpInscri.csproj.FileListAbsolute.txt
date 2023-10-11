@@ -1,0 +1,4 @@
+\\Mac\Home\Desktop\2tdi A S A\AspTpInscri\bin\AspTpInscri.dll
+\\Mac\Home\Desktop\2tdi A S A\AspTpInscri\bin\AspTpInscri.pdb
+\\Mac\Home\Desktop\2tdi A S A\AspTpInscri\obj\Debug\AspTpInscri.dll
+\\Mac\Home\Desktop\2tdi A S A\AspTpInscri\obj\Debug\AspTpInscri.pdb
